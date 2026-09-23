@@ -4,9 +4,11 @@
 // @version      1.0
 // @author       RixsonvoidDev
 // @description  2.5x | 3.0x | 3.5x Hız seçenekleriyle bilgileri daha hızlı tüketin. Yeni videoya geçtiğinizde yerel depolama dan son hızı çekip otomatik videoya uygular. #AI #veri #Türkiye #btkakademi #btk akademi #kurs
+// @description:tr 2.5x | 3.0x | 3.5x Hız seçenekleriyle bilgileri daha hızlı tüketin. Yeni videoya geçtiğinizde yerel depolama dan son hızı çekip otomatik videoya uygular. #AI #veri #Türkiye #btkakademi #btk akademi #kurs
 // @match        https://cinema8.com/raw-video/*
 // @grant        none
 // @run-at       document-start
+// @license MIT
 // ==/UserScript==
 (function() {
     'use strict';
