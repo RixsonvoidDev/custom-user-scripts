@@ -28,10 +28,15 @@ Download Tampermonkey Extension:
 # EN/Global
 
 ### 🎮 Browser Games (`Unity / WASM Games`)
-* **[Wasm Game Memory Editor]**
+* **[Unity Memory Inspector Engine](./HEAPEngine.user.js)**
+  - Download (GreasyFork): https://greasyfork.org/en/scripts/597288-unity-memory-inspector-engine
   - HEAP Module Memory editor.
-  - **IN DEVELOPMENT**
+  - Works With Only Wasm Based Unity Games
+  - Cheat Engine But Browser Version (limited)
+  - Guide: Type Your Current Money (or the target value) In Game Into 'Value' input then press First Scan and wait, then change the target value IN GAME to get exact address of Money in game. Then Click the address <i>(or click start address and shift click on end address to select multiple)</i> and Type your 'New Value' & Press 'Set Value'
+  - <img src="https://raw.githubusercontent.com/RixsonvoidDev/custom-user-scripts/main/assets/HEAPEnginePreview.png" height="400">
 
+ 
 ---
 
 
