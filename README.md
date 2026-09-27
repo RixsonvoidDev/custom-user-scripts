@@ -34,8 +34,14 @@ Download Tampermonkey Extension:
   - Works With Only Wasm Based Unity Games
   - Cheat Engine But Browser Version (limited)
   - Guide: Type Your Current Money (or the target value) In Game Into 'Value' input then press First Scan and wait, then change the target value IN GAME to get exact address of Money in game. Then Click the address <i>(or click start address and shift click on end address to select multiple)</i> and Type your 'New Value' & Press 'Set Value'
-  - <img src="https://raw.githubusercontent.com/RixsonvoidDev/custom-user-scripts/main/assets/HEAPEnginePreview.png" height="400">
+  - <img src="https://raw.githubusercontent.com/RixsonvoidDev/custom-user-scripts/main/assets/HEAPEnginePreview.png" height="360">
 
+
+### Short Link Task Skip Insant Redirector
+* **[Instant Short Link Redirector](./InstaSLRedirector.user.js)**
+  - Download (GreasyFork): https://greasyfork.org/en/scripts/597653-short-link-task-skip-instant-redirect
+  - sub2unlock Likely task skip & instant link redirect.
+  - **FOR: sub2unlock.sbs, risub.com, sub2unlock.net, sub4unlock.com, sub2unlock.ai, sub2unlock.me, sub4unlock.pro (domains can be different).**
  
 ---
 
