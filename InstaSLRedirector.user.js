@@ -15,7 +15,6 @@ It does not generate, host, or endorse any malicious advertisements.
 Some target platforms themselves inherently trigger third-party pop-ups or ad redirects as part of their native monetization—this script actually helps you avoid navigating through them manually.
 Use at your own discretion! */
 // Available: sub2unlock.sbs, risub.com, sub2unlock.net, sub4unlock.com, sub2unlock.ai, sub2unlock.me, sub4unlock.pro (domains can be different)
-// EXAMPLEs: sub2unlock.io/lvq3H , sub2unlock.ai/SL/1357
 
 (function() {
     'use strict';
